@@ -1,0 +1,147 @@
+/*
+========================================================================================
+POWER BI DAX MEASURES & CALCULATED COLUMNS
+Project: Invoice–Payment Reconciliation & Revenue KPI Dashboard
+Data Table: ReconciledInvoices
+========================================================================================
+*/
+
+// =====================================================================================
+// 1. CORE FINANCIAL KPI MEASURES
+// =====================================================================================
+
+// Total Invoiced Amount (Gross Revenue Billed)
+Total Invoiced Amount = 
+SUM(ReconciledInvoices[Invoice_Amount])
+
+// Total Collected Amount (Cash Realized)
+Total Collected Amount = 
+SUM(ReconciledInvoices[Total_Paid])
+
+// Total Outstanding Amount (Uncollected Accounts Receivable)
+Total Outstanding Amount = 
+SUM(ReconciledInvoices[Outstanding_Amount])
+
+// Portfolio Collection Rate %
+Collection Rate % = 
+DIVIDE(
+    [Total Collected Amount],
+    [Total Invoiced Amount],
+    0
+)
+
+// Total Invoice Count
+Total Invoices Count = 
+COUNTROWS(ReconciledInvoices)
+
+// Total Overdue Invoices Count (Delinquent Accounts)
+Number of Overdue Invoices = 
+CALCULATE(
+    COUNTROWS(ReconciledInvoices),
+    ReconciledInvoices[Payment_Status] <> "Paid",
+    ReconciledInvoices[Days_Overdue] > 0
+)
+
+// Overdue Invoices % of Portfolio
+Overdue Invoice Pct = 
+DIVIDE(
+    [Number of Overdue Invoices],
+    [Total Invoices Count],
+    0
+)
+
+// Total Overdue Balance Amount ($ at risk)
+Total Overdue Balance = 
+CALCULATE(
+    [Total Outstanding Amount],
+    ReconciledInvoices[Days_Overdue] > 0
+)
+
+// =====================================================================================
+// 2. PAYMENT STATUS & AGING MEASURES
+// =====================================================================================
+
+// Paid Invoices Count
+Paid Invoices Count = 
+CALCULATE(
+    COUNTROWS(ReconciledInvoices),
+    ReconciledInvoices[Payment_Status] = "Paid"
+)
+
+// Partially Paid Invoices Count
+Partially Paid Invoices Count = 
+CALCULATE(
+    COUNTROWS(ReconciledInvoices),
+    ReconciledInvoices[Payment_Status] = "Partially Paid"
+)
+
+// Unpaid Invoices Count
+Unpaid Invoices Count = 
+CALCULATE(
+    COUNTROWS(ReconciledInvoices),
+    ReconciledInvoices[Payment_Status] = "Unpaid"
+)
+
+// Average Days Overdue (Only for overdue invoices)
+Average Days Overdue = 
+CALCULATE(
+    AVERAGE(ReconciledInvoices[Days_Overdue]),
+    ReconciledInvoices[Days_Overdue] > 0
+)
+
+// Severe Delinquency AR (90+ Days)
+AR Balance Over 90 Days = 
+CALCULATE(
+    [Total Outstanding Amount],
+    ReconciledInvoices[Aging_Bucket] = "90+ Days"
+)
+
+// =====================================================================================
+// 3. CONDITIONAL KPI COLOR FORMATTING MEASURES (For Power BI Dynamic Card / Bar Colors)
+// =====================================================================================
+
+// Color for Collection Rate (Green >= 75%, Amber >= 60%, Red < 60%)
+KPI Color Collection Rate = 
+SWITCH(
+    TRUE(),
+    [Collection Rate %] >= 0.75, "#10B981", // Emerald
+    [Collection Rate %] >= 0.60, "#F59E0B", // Amber
+    "#EF4444"                               // Red
+)
+
+// Color for Status Indicators
+KPI Color Status = 
+SELECTEDVALUE(
+    ReconciledInvoices[Payment_Status],
+    "#1E293B"
+)
+
+// =====================================================================================
+// 4. CALCULATED COLUMNS (If Not Pre-calculated in Python / ETL)
+// =====================================================================================
+
+/*
+Calculated Column: Invoice Month Year
+Invoice_Month = FORMAT(ReconciledInvoices[Invoice_Date], "YYYY-MM")
+
+Calculated Column: Payment Status Calculated
+Payment_Status_Calc = 
+SWITCH(
+    TRUE(),
+    ReconciledInvoices[Total_Paid] >= ReconciledInvoices[Invoice_Amount], "Paid",
+    ReconciledInvoices[Total_Paid] > 0, "Partially Paid",
+    "Unpaid"
+)
+
+Calculated Column: Aging Sort Order
+Aging_Sort_Order = 
+SWITCH(
+    ReconciledInvoices[Aging_Bucket],
+    "Current / Not Due", 1,
+    "1-30 Days", 2,
+    "31-60 Days", 3,
+    "61-90 Days", 4,
+    "90+ Days", 5,
+    6
+)
+*/

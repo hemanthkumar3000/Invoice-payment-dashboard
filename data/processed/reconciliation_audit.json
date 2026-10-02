@@ -1,0 +1,23 @@
+{
+  "raw_invoice_count": 253,
+  "raw_payment_count": 233,
+  "timestamp": "2026-10-02T16:21:08.722334",
+  "as_of_date": "2026-10-01",
+  "actions": [
+    "Removed 3 duplicate invoice records.",
+    "Removed 3 duplicate payment records.",
+    "Handled 2 records with missing Payment_Amount (filled with 0.0)."
+  ],
+  "clean_invoice_count": 250,
+  "clean_payment_count": 230,
+  "total_invoiced": 13600000.0,
+  "total_collected": 8750500.0,
+  "total_outstanding": 4849500.0,
+  "collection_rate_pct": 64.34,
+  "status_breakdown": {
+    "Paid": 128,
+    "Partially Paid": 65,
+    "Unpaid": 57
+  },
+  "overdue_invoice_count": 105
+}

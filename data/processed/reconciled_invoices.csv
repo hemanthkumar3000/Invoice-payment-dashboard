@@ -1,0 +1,251 @@
+Invoice_ID,Customer,Invoice_Date,Due_Date,Invoice_Amount,Department,Total_Paid,Payment_Count,Latest_Payment_Date,Payment_Methods,Outstanding_Amount,Collection_Rate_Pct,Payment_Status,Days_Overdue,Late_Payment_Flag,Aging_Bucket
+INV0017,Horizon Energy,2026-01-01,2026-03-02,87500.0,Operations,87500.0,2,2026-03-01,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0248,ABC Retail,2026-01-02,2026-03-03,45000.0,IT Support,45000.0,2,2026-02-23,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0151,Vanguard Distribution,2026-01-04,2026-02-18,22500.0,Consulting,6500.0,1,2026-02-02,Cheque,16000.0,28.89,Partially Paid,225,Yes,90+ Days
+INV0035,Vanguard Distribution,2026-01-05,2026-03-06,87500.0,Operations,0.0,0,,None,87500.0,0.0,Unpaid,209,Yes,90+ Days
+INV0241,Vanguard Distribution,2026-01-06,2026-02-20,95000.0,Operations,55000.0,1,2026-01-14,Bank Transfer,40000.0,57.89,Partially Paid,223,Yes,90+ Days
+INV0059,Evergreen Agrotech,2026-01-11,2026-03-12,97500.0,IT Support,97500.0,2,2026-03-03,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0091,Apex Logistics,2026-01-11,2026-03-12,95000.0,Services,0.0,0,,None,95000.0,0.0,Unpaid,203,Yes,90+ Days
+INV0181,Sterling Automotive,2026-01-11,2026-02-25,15000.0,Consulting,0.0,0,,None,15000.0,0.0,Unpaid,218,Yes,90+ Days
+INV0213,Beacon Financial,2026-01-12,2026-02-11,82500.0,Consulting,0.0,0,,None,82500.0,0.0,Unpaid,232,Yes,90+ Days
+INV0041,Horizon Energy,2026-01-13,2026-02-12,70000.0,Services,27000.0,1,2026-02-13,UPI,43000.0,38.57,Partially Paid,231,Yes,90+ Days
+INV0002,Pinnacle Media,2026-01-14,2026-03-15,85000.0,Services,85000.0,1,2026-02-02,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0061,Titan Industrial,2026-01-14,2026-02-28,102500.0,Services,58000.0,1,2026-01-24,ACH,44500.0,56.59,Partially Paid,215,Yes,90+ Days
+INV0144,Orion Aerospace,2026-01-14,2026-03-15,92500.0,Marketing,0.0,0,,None,92500.0,0.0,Unpaid,200,Yes,90+ Days
+INV0198,Summit Healthcare,2026-01-14,2026-02-28,82500.0,Services,33000.0,1,2026-03-11,Cheque,49500.0,40.0,Partially Paid,215,Yes,90+ Days
+INV0206,Pinnacle Media,2026-01-16,2026-03-02,70000.0,Operations,0.0,0,,None,70000.0,0.0,Unpaid,213,Yes,90+ Days
+INV0022,XYZ Traders,2026-01-17,2026-03-03,15000.0,Services,15000.0,2,2026-02-21,"ACH, Cheque",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0223,Metro Foods Corp,2026-01-17,2026-03-18,42500.0,Services,0.0,0,,None,42500.0,0.0,Unpaid,197,Yes,90+ Days
+INV0119,XYZ Traders,2026-01-18,2026-03-19,75000.0,Consulting,75000.0,2,2026-03-15,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0109,Metro Foods Corp,2026-01-19,2026-03-20,82500.0,Consulting,82500.0,1,2026-02-07,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0185,Pinnacle Media,2026-01-22,2026-03-08,35000.0,Sales,0.0,0,,None,35000.0,0.0,Unpaid,207,Yes,90+ Days
+INV0006,Pinnacle Media,2026-01-24,2026-03-25,15000.0,Marketing,15000.0,1,2026-04-11,Bank Transfer,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0025,Titan Industrial,2026-01-26,2026-03-27,20000.0,Operations,0.0,0,,None,20000.0,0.0,Unpaid,188,Yes,90+ Days
+INV0062,Summit Healthcare,2026-01-26,2026-03-12,32500.0,IT Support,32500.0,2,2026-03-05,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0037,Sterling Automotive,2026-01-27,2026-02-26,45000.0,IT Support,29500.0,1,2026-02-03,Bank Transfer,15500.0,65.56,Partially Paid,217,Yes,90+ Days
+INV0063,Apex Logistics,2026-01-27,2026-03-13,7500.0,IT Support,7500.0,2,2026-03-09,"Bank Transfer, UPI",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0009,Oasis Pharmaceuticals,2026-01-29,2026-02-28,55000.0,Services,0.0,0,,None,55000.0,0.0,Unpaid,215,Yes,90+ Days
+INV0150,XYZ Traders,2026-01-29,2026-02-28,67500.0,Services,67500.0,1,2026-02-27,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0085,Vanguard Distribution,2026-01-31,2026-04-01,102500.0,Operations,0.0,0,,None,102500.0,0.0,Unpaid,183,Yes,90+ Days
+INV0134,Titan Industrial,2026-02-01,2026-03-18,7500.0,Marketing,0.0,0,,None,7500.0,0.0,Unpaid,197,Yes,90+ Days
+INV0021,Global Tech Solutions,2026-02-02,2026-03-19,40000.0,Services,40000.0,1,2026-02-07,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0010,BlueSky Consulting,2026-02-03,2026-03-05,47500.0,IT Support,0.0,0,,None,47500.0,0.0,Unpaid,210,Yes,90+ Days
+INV0199,Summit Healthcare,2026-02-03,2026-03-20,17500.0,Operations,17500.0,1,2026-03-06,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0029,Apex Logistics,2026-02-04,2026-04-05,15000.0,Services,0.0,0,,None,15000.0,0.0,Unpaid,179,Yes,90+ Days
+INV0082,Apex Logistics,2026-02-07,2026-04-08,82500.0,IT Support,19000.0,1,2026-03-03,Cheque,63500.0,23.03,Partially Paid,176,Yes,90+ Days
+INV0208,Metro Foods Corp,2026-02-07,2026-04-08,77500.0,Consulting,77500.0,1,2026-02-25,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0005,Oasis Pharmaceuticals,2026-02-10,2026-04-11,65000.0,Sales,65000.0,1,2026-03-10,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0090,Oasis Pharmaceuticals,2026-02-11,2026-04-12,75000.0,IT Support,75000.0,1,2026-03-04,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0245,Pinnacle Media,2026-02-11,2026-04-12,100000.0,Services,100000.0,1,2026-05-21,Bank Transfer,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0166,Metro Foods Corp,2026-02-13,2026-03-30,100000.0,Services,55500.0,1,2026-03-11,UPI,44500.0,55.5,Partially Paid,185,Yes,90+ Days
+INV0095,Oasis Pharmaceuticals,2026-02-15,2026-04-01,77500.0,Sales,77500.0,2,2026-03-24,"ACH, Cheque",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0093,Evergreen Agrotech,2026-02-16,2026-04-02,82500.0,Marketing,82500.0,1,2026-03-03,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0075,Beacon Financial,2026-02-17,2026-04-03,7500.0,IT Support,7500.0,1,2026-03-31,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0204,Quantum Dynamics,2026-02-17,2026-04-18,52500.0,Services,27500.0,1,2026-03-13,UPI,25000.0,52.38,Partially Paid,166,Yes,90+ Days
+INV0164,BlueSky Consulting,2026-02-18,2026-04-19,57500.0,Sales,20500.0,1,2026-03-14,Credit Card,37000.0,35.65,Partially Paid,165,Yes,90+ Days
+INV0176,Nexus Manufacturing,2026-02-20,2026-04-21,55000.0,Sales,35000.0,1,2026-03-14,Bank Transfer,20000.0,63.64,Partially Paid,163,Yes,90+ Days
+INV0033,Apex Logistics,2026-02-21,2026-03-23,77500.0,Sales,77500.0,1,2026-04-17,Bank Transfer,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0106,BlueSky Consulting,2026-02-21,2026-04-22,75000.0,Sales,0.0,0,,None,75000.0,0.0,Unpaid,162,Yes,90+ Days
+INV0168,Summit Healthcare,2026-02-21,2026-04-22,50000.0,Sales,33000.0,1,2026-05-04,Bank Transfer,17000.0,66.0,Partially Paid,162,Yes,90+ Days
+INV0067,Apex Logistics,2026-02-22,2026-04-23,42500.0,Operations,28500.0,1,2026-03-14,Cheque,14000.0,67.06,Partially Paid,161,Yes,90+ Days
+INV0016,Sterling Automotive,2026-02-24,2026-04-25,85000.0,Services,85000.0,1,2026-03-10,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0116,Pinnacle Media,2026-02-24,2026-03-26,80000.0,IT Support,80000.0,1,2026-03-23,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0236,ABC Retail,2026-02-24,2026-04-10,95000.0,Consulting,95000.0,1,2026-04-01,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0133,Titan Industrial,2026-02-25,2026-04-11,85000.0,Consulting,85000.0,1,2026-05-17,Credit Card,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0065,Quantum Dynamics,2026-02-28,2026-03-30,30000.0,Consulting,0.0,0,,None,30000.0,0.0,Unpaid,185,Yes,90+ Days
+INV0083,Vanguard Distribution,2026-03-02,2026-05-01,42500.0,Sales,22500.0,1,2026-04-04,Cheque,20000.0,52.94,Partially Paid,153,Yes,90+ Days
+INV0122,Metro Foods Corp,2026-03-05,2026-04-19,45000.0,Sales,45000.0,1,2026-04-03,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0064,Orion Aerospace,2026-03-06,2026-04-20,42500.0,Services,21500.0,1,2026-03-24,ACH,21000.0,50.59,Partially Paid,164,Yes,90+ Days
+INV0105,Summit Healthcare,2026-03-06,2026-05-05,10000.0,IT Support,0.0,0,,None,10000.0,0.0,Unpaid,149,Yes,90+ Days
+INV0131,ABC Retail,2026-03-08,2026-05-07,27500.0,Consulting,27500.0,2,2026-05-03,"Cheque, Credit Card",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0036,Vanguard Distribution,2026-03-10,2026-04-24,20000.0,Marketing,20000.0,2,2026-04-20,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0184,Beacon Financial,2026-03-11,2026-04-10,32500.0,Marketing,23500.0,1,2026-03-18,Credit Card,9000.0,72.31,Partially Paid,174,Yes,90+ Days
+INV0249,Vanguard Distribution,2026-03-11,2026-05-10,32500.0,IT Support,0.0,0,,None,32500.0,0.0,Unpaid,144,Yes,90+ Days
+INV0173,Evergreen Agrotech,2026-03-12,2026-04-26,35000.0,Services,35000.0,1,2026-03-23,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0225,Beacon Financial,2026-03-12,2026-05-11,12500.0,Marketing,12500.0,1,2026-04-19,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0211,Quantum Dynamics,2026-03-14,2026-04-13,42500.0,IT Support,42500.0,1,2026-04-01,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0101,Nexus Manufacturing,2026-03-16,2026-04-30,92500.0,IT Support,92500.0,1,2026-03-29,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0136,Apex Logistics,2026-03-17,2026-04-16,55000.0,Sales,55000.0,1,2026-04-13,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0099,Global Tech Solutions,2026-03-20,2026-05-04,22500.0,IT Support,0.0,0,,None,22500.0,0.0,Unpaid,150,Yes,90+ Days
+INV0202,XYZ Traders,2026-03-20,2026-05-04,87500.0,Sales,87500.0,1,2026-04-16,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0028,Crestline Software,2026-03-22,2026-04-21,85000.0,IT Support,0.0,0,,None,85000.0,0.0,Unpaid,163,Yes,90+ Days
+INV0034,Nexus Manufacturing,2026-03-22,2026-05-06,50000.0,Consulting,0.0,0,,None,50000.0,0.0,Unpaid,148,Yes,90+ Days
+INV0148,Apex Logistics,2026-03-22,2026-05-21,27500.0,Sales,27500.0,2,2026-05-16,"ACH, UPI",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0003,Crestline Software,2026-03-23,2026-05-22,5000.0,Consulting,5000.0,1,2026-06-15,Bank Transfer,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0191,Metro Foods Corp,2026-03-23,2026-04-22,85000.0,Consulting,85000.0,1,2026-03-29,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0038,BlueSky Consulting,2026-03-24,2026-05-23,45000.0,Services,45000.0,1,2026-04-05,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0174,Global Tech Solutions,2026-03-24,2026-05-08,17500.0,Consulting,17500.0,1,2026-04-03,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0026,ABC Retail,2026-03-27,2026-05-11,42500.0,Sales,42500.0,2,2026-05-04,"Bank Transfer, Credit Card",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0051,Pinnacle Media,2026-03-28,2026-05-27,80000.0,Operations,80000.0,1,2026-04-23,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0156,BlueSky Consulting,2026-03-28,2026-04-27,57500.0,Services,57500.0,2,2026-04-24,"Credit Card, UPI",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0079,Vanguard Distribution,2026-04-02,2026-05-17,62500.0,Services,62500.0,1,2026-04-10,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0023,Nexus Manufacturing,2026-04-08,2026-05-08,70000.0,IT Support,70000.0,1,2026-04-27,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0074,Oasis Pharmaceuticals,2026-04-08,2026-05-08,87500.0,Sales,87500.0,1,2026-04-20,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0044,Nexus Manufacturing,2026-04-09,2026-05-24,7500.0,Services,7500.0,1,2026-05-01,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0237,Sterling Automotive,2026-04-09,2026-05-09,47500.0,IT Support,47500.0,1,2026-05-06,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0203,Vanguard Distribution,2026-04-11,2026-06-10,45000.0,Sales,0.0,0,,None,45000.0,0.0,Unpaid,113,Yes,90+ Days
+INV0157,Global Tech Solutions,2026-04-12,2026-05-12,45000.0,Services,28000.0,1,2026-04-21,UPI,17000.0,62.22,Partially Paid,142,Yes,90+ Days
+INV0246,XYZ Traders,2026-04-14,2026-06-13,85000.0,Operations,85000.0,2,2026-06-05,"Bank Transfer, Cheque",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0130,Crestline Software,2026-04-17,2026-06-16,15000.0,Services,15000.0,1,2026-05-01,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0040,Starlight Hospitality,2026-04-18,2026-06-17,60000.0,Sales,60000.0,2,2026-06-14,"Cheque, UPI",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0011,Crestline Software,2026-04-19,2026-06-18,55000.0,Marketing,55000.0,1,2026-05-03,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0073,BlueSky Consulting,2026-04-19,2026-06-03,82500.0,Services,32000.0,1,2026-06-01,Credit Card,50500.0,38.79,Partially Paid,120,Yes,90+ Days
+INV0058,Metro Foods Corp,2026-04-20,2026-05-20,27500.0,Marketing,27500.0,1,2026-04-26,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0214,Sterling Automotive,2026-04-21,2026-06-20,42500.0,IT Support,42500.0,2,2026-06-11,"Bank Transfer, Credit Card",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0243,Vanguard Distribution,2026-04-24,2026-05-24,102500.0,Consulting,0.0,0,,None,102500.0,0.0,Unpaid,130,Yes,90+ Days
+INV0197,Horizon Energy,2026-04-25,2026-05-25,85000.0,Consulting,0.0,0,,None,85000.0,0.0,Unpaid,129,Yes,90+ Days
+INV0052,Nexus Manufacturing,2026-04-26,2026-05-26,52500.0,Marketing,52500.0,2,2026-05-19,"ACH, Cheque",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0232,XYZ Traders,2026-04-26,2026-06-25,87500.0,Marketing,87500.0,2,2026-06-16,"Bank Transfer, UPI",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0138,Pinnacle Media,2026-04-27,2026-06-11,75000.0,IT Support,75000.0,1,2026-05-08,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0222,Orion Aerospace,2026-04-27,2026-06-26,45000.0,IT Support,45000.0,1,2026-06-17,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0234,Apex Logistics,2026-04-29,2026-06-28,95000.0,Marketing,63500.0,1,2026-05-08,UPI,31500.0,66.84,Partially Paid,95,Yes,90+ Days
+INV0104,Nexus Manufacturing,2026-04-30,2026-06-14,65000.0,Operations,65000.0,1,2026-05-29,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0057,Apex Logistics,2026-05-01,2026-06-15,50000.0,Marketing,50000.0,1,2026-06-27,UPI,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0125,Beacon Financial,2026-05-01,2026-06-30,20000.0,Sales,20000.0,1,2026-06-22,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0170,XYZ Traders,2026-05-02,2026-06-16,62500.0,IT Support,38500.0,1,2026-06-26,ACH,24000.0,61.6,Partially Paid,107,Yes,90+ Days
+INV0098,Beacon Financial,2026-05-03,2026-07-02,7500.0,Sales,7500.0,1,2026-05-13,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0155,Apex Logistics,2026-05-05,2026-06-19,20000.0,IT Support,10000.0,1,2026-06-04,Credit Card,10000.0,50.0,Partially Paid,104,Yes,90+ Days
+INV0001,Global Tech Solutions,2026-05-06,2026-06-05,47500.0,Sales,47500.0,2,2026-06-04,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0030,Metro Foods Corp,2026-05-07,2026-07-06,95000.0,Sales,51500.0,1,2026-07-04,Cheque,43500.0,54.21,Partially Paid,87,Yes,61-90 Days
+INV0227,Orion Aerospace,2026-05-07,2026-06-21,35000.0,IT Support,11500.0,1,2026-05-31,Credit Card,23500.0,32.86,Partially Paid,102,Yes,90+ Days
+INV0194,Metro Foods Corp,2026-05-08,2026-06-07,47500.0,Consulting,47500.0,2,2026-06-02,"ACH, Credit Card",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0115,Vanguard Distribution,2026-05-09,2026-06-23,72500.0,Marketing,0.0,0,,None,72500.0,0.0,Unpaid,100,Yes,90+ Days
+INV0047,Metro Foods Corp,2026-05-11,2026-06-10,35000.0,Operations,7000.0,1,2026-06-19,UPI,28000.0,20.0,Partially Paid,113,Yes,90+ Days
+INV0031,Crestline Software,2026-05-14,2026-06-13,55000.0,Operations,0.0,1,2026-06-04,ACH,55000.0,0.0,Unpaid,110,Yes,90+ Days
+INV0012,Summit Healthcare,2026-05-15,2026-07-14,92500.0,Services,64000.0,1,2026-07-10,Credit Card,28500.0,69.19,Partially Paid,79,Yes,61-90 Days
+INV0086,Global Tech Solutions,2026-05-16,2026-07-15,37500.0,Services,37500.0,2,2026-07-05,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0132,BlueSky Consulting,2026-05-16,2026-06-15,32500.0,Sales,32500.0,1,2026-06-22,ACH,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0215,Global Tech Solutions,2026-05-16,2026-07-15,25000.0,IT Support,25000.0,1,2026-07-21,Cheque,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0015,ABC Retail,2026-05-17,2026-07-16,22500.0,Marketing,22500.0,1,2026-07-19,Credit Card,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0102,Quantum Dynamics,2026-05-17,2026-06-16,57500.0,IT Support,57500.0,1,2026-06-12,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0231,Pinnacle Media,2026-05-19,2026-07-18,90000.0,Services,25000.0,1,2026-06-23,UPI,65000.0,27.78,Partially Paid,75,Yes,61-90 Days
+INV0060,Nexus Manufacturing,2026-05-20,2026-07-04,40000.0,IT Support,40000.0,1,2026-06-19,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0145,Quantum Dynamics,2026-05-20,2026-07-19,32500.0,Sales,23000.0,1,2026-07-08,Bank Transfer,9500.0,70.77,Partially Paid,74,Yes,61-90 Days
+INV0117,ABC Retail,2026-05-21,2026-06-20,67500.0,Marketing,39000.0,1,2026-05-29,Cheque,28500.0,57.78,Partially Paid,103,Yes,90+ Days
+INV0143,Oasis Pharmaceuticals,2026-05-23,2026-07-22,22500.0,Consulting,22500.0,1,2026-07-16,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0078,Quantum Dynamics,2026-05-25,2026-06-24,97500.0,Marketing,0.0,0,,None,97500.0,0.0,Unpaid,99,Yes,90+ Days
+INV0087,Vanguard Distribution,2026-05-28,2026-07-27,40000.0,Sales,40000.0,1,2026-08-13,Credit Card,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0089,XYZ Traders,2026-05-28,2026-07-12,52500.0,Services,52500.0,1,2026-06-19,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0094,Evergreen Agrotech,2026-05-28,2026-07-27,82500.0,Marketing,0.0,0,,None,82500.0,0.0,Unpaid,66,Yes,61-90 Days
+INV0097,Quantum Dynamics,2026-05-28,2026-07-12,25000.0,Operations,0.0,0,,None,25000.0,0.0,Unpaid,81,Yes,61-90 Days
+INV0142,Evergreen Agrotech,2026-05-28,2026-07-27,12500.0,Marketing,12500.0,2,2026-07-25,"Credit Card, UPI",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0216,Oasis Pharmaceuticals,2026-05-28,2026-06-27,62500.0,Services,62500.0,1,2026-06-21,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0230,Summit Healthcare,2026-05-28,2026-07-27,10000.0,Consulting,10000.0,1,2026-07-19,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0180,Crestline Software,2026-05-30,2026-07-14,27500.0,Services,27500.0,1,2026-06-15,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0137,Metro Foods Corp,2026-05-31,2026-07-15,87500.0,Operations,87500.0,1,2026-06-12,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0189,Global Tech Solutions,2026-06-01,2026-07-16,55000.0,Sales,55000.0,1,2026-08-16,Credit Card,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0238,ABC Retail,2026-06-01,2026-07-31,57500.0,Marketing,17500.0,1,2026-07-27,ACH,40000.0,30.43,Partially Paid,62,Yes,61-90 Days
+INV0084,Metro Foods Corp,2026-06-02,2026-08-01,75000.0,IT Support,0.0,0,,None,75000.0,0.0,Unpaid,61,Yes,61-90 Days
+INV0050,Metro Foods Corp,2026-06-04,2026-07-19,32500.0,Marketing,32500.0,2,2026-07-11,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0171,Nexus Manufacturing,2026-06-08,2026-07-23,42500.0,Operations,0.0,0,,None,42500.0,0.0,Unpaid,70,Yes,61-90 Days
+INV0066,Global Tech Solutions,2026-06-09,2026-08-08,7500.0,Operations,5500.0,1,2026-08-03,UPI,2000.0,73.33,Partially Paid,54,Yes,31-60 Days
+INV0212,Horizon Energy,2026-06-10,2026-07-10,95000.0,Consulting,45000.0,1,2026-07-17,ACH,50000.0,47.37,Partially Paid,83,Yes,61-90 Days
+INV0055,Summit Healthcare,2026-06-12,2026-07-27,87500.0,IT Support,52000.0,1,2026-07-19,ACH,35500.0,59.43,Partially Paid,66,Yes,61-90 Days
+INV0200,Crestline Software,2026-06-12,2026-08-11,25000.0,Sales,25000.0,1,2026-06-25,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0228,Pinnacle Media,2026-06-12,2026-07-27,82500.0,Marketing,82500.0,1,2026-07-04,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0209,Orion Aerospace,2026-06-13,2026-08-12,55000.0,Services,0.0,0,,None,55000.0,0.0,Unpaid,50,Yes,31-60 Days
+INV0219,Summit Healthcare,2026-06-13,2026-07-13,102500.0,Consulting,102500.0,1,2026-07-06,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0162,Titan Industrial,2026-06-14,2026-08-13,35000.0,Operations,35000.0,2,2026-09-03,"Bank Transfer, UPI",0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0159,Crestline Software,2026-06-15,2026-08-14,102500.0,Marketing,102500.0,1,2026-07-30,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0049,Vanguard Distribution,2026-06-17,2026-08-01,70000.0,Marketing,35500.0,1,2026-07-04,ACH,34500.0,50.71,Partially Paid,61,Yes,61-90 Days
+INV0045,Sterling Automotive,2026-06-19,2026-07-19,90000.0,IT Support,90000.0,1,2026-08-07,Bank Transfer,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0048,Starlight Hospitality,2026-06-19,2026-08-18,15000.0,IT Support,15000.0,1,2026-07-13,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0129,Orion Aerospace,2026-06-20,2026-07-20,12500.0,Sales,0.0,0,,None,12500.0,0.0,Unpaid,73,Yes,61-90 Days
+INV0183,Nexus Manufacturing,2026-06-20,2026-07-20,20000.0,Marketing,20000.0,1,2026-06-30,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0205,Orion Aerospace,2026-06-22,2026-08-21,100000.0,Marketing,100000.0,1,2026-09-29,Credit Card,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0024,Global Tech Solutions,2026-06-23,2026-07-23,67500.0,Sales,67500.0,2,2026-07-19,"ACH, Bank Transfer",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0108,Apex Logistics,2026-06-23,2026-08-22,45000.0,IT Support,25000.0,1,2026-08-09,Cheque,20000.0,55.56,Partially Paid,40,Yes,31-60 Days
+INV0121,Quantum Dynamics,2026-06-23,2026-07-23,50000.0,IT Support,50000.0,2,2026-07-17,"Bank Transfer, Cheque",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0147,Metro Foods Corp,2026-06-24,2026-07-24,77500.0,IT Support,77500.0,1,2026-07-17,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0226,BlueSky Consulting,2026-06-25,2026-08-24,77500.0,Services,77500.0,1,2026-08-10,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0046,Global Tech Solutions,2026-06-26,2026-08-25,72500.0,Operations,32000.0,1,2026-09-04,Unknown,40500.0,44.14,Partially Paid,37,Yes,31-60 Days
+INV0076,Beacon Financial,2026-06-26,2026-08-10,87500.0,Operations,0.0,0,,None,87500.0,0.0,Unpaid,52,Yes,31-60 Days
+INV0196,Apex Logistics,2026-06-27,2026-08-26,55000.0,Marketing,55000.0,1,2026-08-25,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0043,Nexus Manufacturing,2026-06-29,2026-08-13,77500.0,Services,0.0,0,,None,77500.0,0.0,Unpaid,49,Yes,31-60 Days
+INV0165,Apex Logistics,2026-06-29,2026-08-13,27500.0,Operations,0.0,0,,None,27500.0,0.0,Unpaid,49,Yes,31-60 Days
+INV0118,Beacon Financial,2026-06-30,2026-07-30,40000.0,Consulting,21500.0,1,2026-07-13,Bank Transfer,18500.0,53.75,Partially Paid,63,Yes,61-90 Days
+INV0160,Quantum Dynamics,2026-06-30,2026-08-29,12500.0,Operations,12500.0,1,2026-09-24,Credit Card,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0152,Nexus Manufacturing,2026-07-01,2026-07-31,92500.0,Operations,92500.0,1,2026-07-20,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0004,Apex Logistics,2026-07-03,2026-08-17,20000.0,IT Support,13000.0,1,2026-08-23,ACH,7000.0,65.0,Partially Paid,45,Yes,31-60 Days
+INV0128,Global Tech Solutions,2026-07-03,2026-08-02,62500.0,Marketing,62500.0,2,2026-08-28,"Bank Transfer, UPI",0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0069,Beacon Financial,2026-07-05,2026-09-03,72500.0,Sales,0.0,0,,None,72500.0,0.0,Unpaid,28,Yes,1-30 Days
+INV0096,XYZ Traders,2026-07-05,2026-09-03,87500.0,Services,47500.0,1,2026-07-16,UPI,40000.0,54.29,Partially Paid,28,Yes,1-30 Days
+INV0167,Sterling Automotive,2026-07-05,2026-08-04,72500.0,Sales,72500.0,2,2026-08-16,UPI,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0192,Apex Logistics,2026-07-05,2026-08-19,62500.0,Services,0.0,0,,None,62500.0,0.0,Unpaid,43,Yes,31-60 Days
+INV0007,Metro Foods Corp,2026-07-06,2026-08-05,77500.0,Consulting,77500.0,2,2026-08-02,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0188,Horizon Energy,2026-07-08,2026-09-06,82500.0,IT Support,82500.0,2,2026-09-01,"Cheque, Credit Card",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0039,Summit Healthcare,2026-07-09,2026-09-07,10000.0,Operations,4500.0,1,2026-07-19,Credit Card,5500.0,45.0,Partially Paid,24,Yes,1-30 Days
+INV0210,Starlight Hospitality,2026-07-09,2026-09-07,25000.0,IT Support,9500.0,1,2026-09-11,Bank Transfer,15500.0,38.0,Partially Paid,24,Yes,1-30 Days
+INV0140,Apex Logistics,2026-07-10,2026-08-09,20000.0,IT Support,10500.0,1,2026-08-19,Cheque,9500.0,52.5,Partially Paid,53,Yes,31-60 Days
+INV0111,XYZ Traders,2026-07-11,2026-08-25,60000.0,Consulting,60000.0,1,2026-07-27,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0139,Evergreen Agrotech,2026-07-11,2026-08-10,45000.0,Consulting,20500.0,1,2026-07-21,Bank Transfer,24500.0,45.56,Partially Paid,52,Yes,31-60 Days
+INV0182,XYZ Traders,2026-07-11,2026-08-25,65000.0,Marketing,26000.0,1,2026-07-20,Credit Card,39000.0,40.0,Partially Paid,37,Yes,31-60 Days
+INV0244,Beacon Financial,2026-07-11,2026-08-25,77500.0,Services,54500.0,1,2026-09-02,Cheque,23000.0,70.32,Partially Paid,37,Yes,31-60 Days
+INV0169,BlueSky Consulting,2026-07-12,2026-08-11,25000.0,Operations,25000.0,1,2026-07-22,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0008,Nexus Manufacturing,2026-07-14,2026-08-28,77500.0,Services,0.0,0,,None,77500.0,0.0,Unpaid,34,Yes,31-60 Days
+INV0229,Global Tech Solutions,2026-07-14,2026-08-28,90000.0,Operations,0.0,0,,None,90000.0,0.0,Unpaid,34,Yes,31-60 Days
+INV0042,Quantum Dynamics,2026-07-15,2026-08-14,20000.0,Services,0.0,0,,None,20000.0,0.0,Unpaid,48,Yes,31-60 Days
+INV0112,Horizon Energy,2026-07-15,2026-09-13,102500.0,Sales,48500.0,1,2026-08-07,UPI,54000.0,47.32,Partially Paid,18,Yes,1-30 Days
+INV0161,Apex Logistics,2026-07-16,2026-08-30,17500.0,Marketing,12500.0,1,2026-09-06,Bank Transfer,5000.0,71.43,Partially Paid,32,Yes,31-60 Days
+INV0014,Evergreen Agrotech,2026-07-17,2026-08-31,15000.0,Operations,7000.0,1,2026-08-07,Cheque,8000.0,46.67,Partially Paid,31,Yes,31-60 Days
+INV0217,Global Tech Solutions,2026-07-21,2026-09-04,20000.0,Services,7500.0,1,2026-08-18,UPI,12500.0,37.5,Partially Paid,27,Yes,1-30 Days
+INV0235,Evergreen Agrotech,2026-07-23,2026-09-06,10000.0,Services,10000.0,1,2026-08-15,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0020,Pinnacle Media,2026-07-24,2026-09-22,52500.0,Marketing,23000.0,1,2026-10-03,ACH,29500.0,43.81,Partially Paid,9,Yes,1-30 Days
+INV0146,Horizon Energy,2026-07-25,2026-08-24,95000.0,Services,95000.0,1,2026-09-29,UPI,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0218,Pinnacle Media,2026-07-25,2026-09-23,85000.0,Operations,85000.0,2,2026-09-13,"Cheque, UPI",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0239,Sterling Automotive,2026-07-25,2026-09-23,17500.0,Consulting,17500.0,1,2026-08-14,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0153,BlueSky Consulting,2026-07-27,2026-09-25,72500.0,Operations,26000.0,1,2026-09-21,Bank Transfer,46500.0,35.86,Partially Paid,6,Yes,1-30 Days
+INV0242,Titan Industrial,2026-07-27,2026-09-25,30000.0,Consulting,30000.0,1,2026-08-20,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0107,ABC Retail,2026-07-29,2026-09-27,27500.0,Marketing,0.0,0,,None,27500.0,0.0,Unpaid,4,Yes,1-30 Days
+INV0141,BlueSky Consulting,2026-07-30,2026-09-13,22500.0,Marketing,0.0,0,,None,22500.0,0.0,Unpaid,18,Yes,1-30 Days
+INV0100,Vanguard Distribution,2026-08-01,2026-09-15,47500.0,Operations,0.0,0,,None,47500.0,0.0,Unpaid,16,Yes,1-30 Days
+INV0126,Evergreen Agrotech,2026-08-01,2026-09-30,27500.0,Operations,27500.0,1,2026-08-23,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0175,Titan Industrial,2026-08-01,2026-08-31,7500.0,Consulting,7500.0,1,2026-08-08,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0221,BlueSky Consulting,2026-08-02,2026-10-01,22500.0,Marketing,22500.0,1,2026-09-16,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0178,Pinnacle Media,2026-08-05,2026-09-04,92500.0,Services,30500.0,1,2026-08-17,Bank Transfer,62000.0,32.97,Partially Paid,27,Yes,1-30 Days
+INV0088,Crestline Software,2026-08-06,2026-09-05,35000.0,Marketing,0.0,1,2026-08-15,Bank Transfer,35000.0,0.0,Unpaid,26,Yes,1-30 Days
+INV0068,XYZ Traders,2026-08-08,2026-10-07,90000.0,Consulting,90000.0,1,2026-10-06,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0149,Sterling Automotive,2026-08-09,2026-09-08,60000.0,Sales,60000.0,1,2026-09-04,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0201,Crestline Software,2026-08-10,2026-10-09,25000.0,Services,0.0,0,,None,25000.0,0.0,Unpaid,0,No,Current / Not Due
+INV0070,Titan Industrial,2026-08-11,2026-09-10,27500.0,Marketing,20000.0,1,2026-09-02,Cheque,7500.0,72.73,Partially Paid,21,Yes,1-30 Days
+INV0190,Titan Industrial,2026-08-11,2026-09-25,60000.0,Sales,38000.0,1,2026-08-19,Bank Transfer,22000.0,63.33,Partially Paid,6,Yes,1-30 Days
+INV0071,Oasis Pharmaceuticals,2026-08-12,2026-10-11,77500.0,IT Support,29000.0,1,2026-09-17,Bank Transfer,48500.0,37.42,Partially Paid,0,No,Current / Not Due
+INV0187,Quantum Dynamics,2026-08-12,2026-09-26,62500.0,Sales,43500.0,1,2026-09-10,Credit Card,19000.0,69.6,Partially Paid,5,Yes,1-30 Days
+INV0163,XYZ Traders,2026-08-13,2026-10-12,75000.0,Services,75000.0,2,2026-10-02,"Bank Transfer, Credit Card",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0172,Pinnacle Media,2026-08-14,2026-09-28,95000.0,Consulting,59500.0,1,2026-09-20,Cheque,35500.0,62.63,Partially Paid,3,Yes,1-30 Days
+INV0224,Global Tech Solutions,2026-08-14,2026-09-28,7500.0,Services,7500.0,1,2026-11-02,Cheque,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0114,Oasis Pharmaceuticals,2026-08-15,2026-09-29,15000.0,Services,0.0,0,,None,15000.0,0.0,Unpaid,2,Yes,1-30 Days
+INV0110,Evergreen Agrotech,2026-08-16,2026-09-15,20000.0,Sales,14000.0,1,2026-08-23,Credit Card,6000.0,70.0,Partially Paid,16,Yes,1-30 Days
+INV0127,Starlight Hospitality,2026-08-16,2026-09-15,75000.0,Services,0.0,0,,None,75000.0,0.0,Unpaid,16,Yes,1-30 Days
+INV0240,Quantum Dynamics,2026-08-17,2026-10-01,42500.0,IT Support,0.0,0,,None,42500.0,0.0,Unpaid,0,No,Current / Not Due
+INV0158,Beacon Financial,2026-08-18,2026-10-17,95000.0,IT Support,0.0,0,,None,95000.0,0.0,Unpaid,0,No,Current / Not Due
+INV0250,Evergreen Agrotech,2026-08-18,2026-10-02,65000.0,Consulting,65000.0,1,2026-09-26,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0193,XYZ Traders,2026-08-19,2026-10-03,27500.0,Operations,27500.0,1,2026-09-26,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0077,Oasis Pharmaceuticals,2026-08-21,2026-10-05,60000.0,Consulting,60000.0,2,2026-10-01,"ACH, UPI",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0247,Sterling Automotive,2026-08-21,2026-09-20,12500.0,IT Support,12500.0,1,2026-10-22,Credit Card,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0032,Summit Healthcare,2026-08-23,2026-10-07,52500.0,Marketing,0.0,0,,None,52500.0,0.0,Unpaid,0,No,Current / Not Due
+INV0179,Nexus Manufacturing,2026-08-23,2026-09-22,102500.0,IT Support,102500.0,1,2026-08-28,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0113,Titan Industrial,2026-08-24,2026-10-08,45000.0,Marketing,31000.0,1,2026-09-27,Credit Card,14000.0,68.89,Partially Paid,0,No,Current / Not Due
+INV0154,BlueSky Consulting,2026-08-24,2026-10-23,102500.0,Services,0.0,0,,None,102500.0,0.0,Unpaid,0,No,Current / Not Due
+INV0054,Nexus Manufacturing,2026-08-26,2026-09-25,87500.0,Services,61500.0,1,2026-09-07,ACH,26000.0,70.29,Partially Paid,6,Yes,1-30 Days
+INV0072,Quantum Dynamics,2026-08-26,2026-10-25,42500.0,IT Support,17500.0,1,2026-09-03,ACH,25000.0,41.18,Partially Paid,0,No,Current / Not Due
+INV0124,Nexus Manufacturing,2026-08-26,2026-10-25,15000.0,Marketing,15000.0,1,2026-10-30,Credit Card,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0092,Crestline Software,2026-08-29,2026-10-28,32500.0,Sales,23000.0,1,2026-09-26,Cheque,9500.0,70.77,Partially Paid,0,No,Current / Not Due
+INV0177,Vanguard Distribution,2026-08-29,2026-10-13,25000.0,IT Support,17500.0,1,2026-09-04,Credit Card,7500.0,70.0,Partially Paid,0,No,Current / Not Due
+INV0123,Global Tech Solutions,2026-08-30,2026-09-29,40000.0,Marketing,28500.0,1,2026-09-24,Cheque,11500.0,71.25,Partially Paid,2,Yes,1-30 Days
+INV0186,Sterling Automotive,2026-08-31,2026-10-15,90000.0,IT Support,90000.0,1,2026-09-08,Credit Card,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0019,Oasis Pharmaceuticals,2026-09-01,2026-10-31,25000.0,Services,25000.0,1,2026-09-19,Cheque,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0056,Oasis Pharmaceuticals,2026-09-01,2026-10-16,30000.0,IT Support,30000.0,2,2026-10-11,"ACH, UPI",0.0,100.0,Paid,0,No,Settled / Not Due
+INV0233,Evergreen Agrotech,2026-09-02,2026-11-01,80000.0,Marketing,80000.0,1,2026-10-18,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0081,Crestline Software,2026-09-03,2026-10-18,80000.0,Consulting,80000.0,1,2026-10-08,Bank Transfer,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0103,Summit Healthcare,2026-09-05,2026-10-20,90000.0,IT Support,90000.0,1,2026-09-30,UPI,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0207,Oasis Pharmaceuticals,2026-09-05,2026-10-05,52500.0,Consulting,0.0,0,,None,52500.0,0.0,Unpaid,0,No,Current / Not Due
+INV0018,Crestline Software,2026-09-06,2026-10-06,17500.0,Sales,0.0,0,,None,17500.0,0.0,Unpaid,0,No,Current / Not Due
+INV0027,Titan Industrial,2026-09-07,2026-10-07,72500.0,Consulting,72500.0,2,2026-10-13,"Bank Transfer, Credit Card",0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0220,Sterling Automotive,2026-09-08,2026-11-07,90000.0,Operations,41500.0,1,2026-09-15,Credit Card,48500.0,46.11,Partially Paid,0,No,Current / Not Due
+INV0080,Vanguard Distribution,2026-09-09,2026-10-09,25000.0,Marketing,0.0,0,,None,25000.0,0.0,Unpaid,0,No,Current / Not Due
+INV0135,Evergreen Agrotech,2026-09-09,2026-11-08,20000.0,Marketing,0.0,0,,None,20000.0,0.0,Unpaid,0,No,Current / Not Due
+INV0195,Pinnacle Media,2026-09-09,2026-10-09,50000.0,Operations,50000.0,1,2026-10-06,ACH,0.0,100.0,Paid,0,No,Settled / Not Due
+INV0013,Nexus Manufacturing,2026-09-10,2026-10-10,85000.0,Services,57500.0,1,2026-09-24,UPI,27500.0,67.65,Partially Paid,0,No,Current / Not Due
+INV0053,Pinnacle Media,2026-09-11,2026-10-26,65000.0,Marketing,65000.0,1,2026-11-04,ACH,0.0,100.0,Paid,0,Yes,Settled / Not Due
+INV0120,Oasis Pharmaceuticals,2026-09-14,2026-10-29,87500.0,Consulting,0.0,0,,None,87500.0,0.0,Unpaid,0,No,Current / Not Due

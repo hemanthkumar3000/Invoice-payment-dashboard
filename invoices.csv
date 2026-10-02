@@ -1,0 +1,254 @@
+Invoice_ID,Customer,Invoice_Date,Due_Date,Invoice_Amount,Department
+INV0001,Global Tech Solutions,2026-05-06,2026-06-05,47500.0,Sales
+INV0002,Pinnacle Media,2026-01-14,2026-03-15,85000.0,Services
+INV0003,Crestline Software,2026-03-23,2026-05-22,5000.0,Consulting
+INV0004,Apex Logistics,2026-07-03,2026-08-17,20000.0,IT Support
+INV0005,Oasis Pharmaceuticals,2026-02-10,2026-04-11,65000.0,Sales
+INV0006,  Pinnacle Media  ,2026-01-24,2026-03-25,15000.0,Marketing
+INV0007,Metro Foods Corp,2026-07-06,2026-08-05,77500.0,Consulting
+INV0008,Nexus Manufacturing,2026-07-14,2026-08-28,77500.0,Services
+INV0009,Oasis Pharmaceuticals,01/29/2026,2026-02-28,55000.0,Services
+INV0010,BlueSky Consulting,2026-02-03,2026-03-05,47500.0,IT Support
+INV0011,Crestline Software,2026-04-19,2026-06-18,55000.0,Marketing
+INV0012,Summit Healthcare,2026-05-15,2026-07-14,92500.0,Services
+INV0013,Nexus Manufacturing,2026-09-10,2026-10-10,85000.0,Services
+INV0014,Evergreen Agrotech,2026-07-17,2026-08-31,15000.0,Operations
+INV0015,ABC Retail,2026-05-17,2026-07-16,22500.0,Marketing
+INV0016,Sterling Automotive,2026-02-24,2026-04-25,85000.0,Services
+INV0017,Horizon Energy,2026-01-01,2026-03-02,87500.0,Operations
+INV0018,Crestline Software,2026-09-06,2026-10-06,17500.0,Sales
+INV0019,Oasis Pharmaceuticals,2026-09-01,2026-10-31,25000.0,Services
+INV0020,Pinnacle Media,2026-07-24,2026-09-22,52500.0,Marketing
+INV0021,Global Tech Solutions,2026-02-02,2026-03-19,40000.0,Services
+INV0022,XYZ Traders,2026-01-17,2026-03-03,15000.0,Services
+INV0023,  Nexus Manufacturing  ,2026-04-08,2026-05-08,70000.0,IT Support
+INV0024,Global Tech Solutions,2026-06-23,2026-07-23,67500.0,Sales
+INV0025,Titan Industrial,2026-01-26,2026-03-27,20000.0,Operations
+INV0026,ABC Retail,2026-03-27,2026-05-11,42500.0,Sales
+INV0027,Titan Industrial,2026-09-07,2026-10-07,72500.0,Consulting
+INV0028,Crestline Software,2026-03-22,2026-04-21,85000.0,IT Support
+INV0029,Apex Logistics,2026-02-04,2026-04-05,15000.0,Services
+INV0030,Metro Foods Corp,2026-05-07,2026-07-06,95000.0,Sales
+INV0031,Crestline Software,2026-05-14,2026-06-13,55000.0,Operations
+INV0032,Summit Healthcare,2026-08-23,2026-10-07,52500.0,Marketing
+INV0033,Apex Logistics,2026-02-21,2026-03-23,77500.0,Sales
+INV0034,Nexus Manufacturing,2026-03-22,2026-05-06,50000.0,Consulting
+INV0035,Vanguard Distribution,2026-01-05,2026-03-06,87500.0,Operations
+INV0036,Vanguard Distribution,2026-03-10,2026-04-24,20000.0,Marketing
+INV0037,Sterling Automotive,2026-01-27,2026-02-26,45000.0,IT Support
+INV0038,BlueSky Consulting,2026-03-24,2026-05-23,45000.0,Services
+INV0039,Summit Healthcare,2026-07-09,2026-09-07,10000.0,Operations
+INV0040,Starlight Hospitality,2026-04-18,2026-06-17,60000.0,Sales
+INV0041,Horizon Energy,2026-01-13,2026-02-12,70000.0,Services
+INV0042,Quantum Dynamics,2026-07-15,2026-08-14,20000.0,Services
+INV0043,Nexus Manufacturing,2026-06-29,2026-08-13,77500.0,Services
+INV0044,Nexus Manufacturing,2026-04-09,2026-05-24,7500.0,Services
+INV0045,Sterling Automotive,2026-06-19,2026-07-19,90000.0,IT Support
+INV0046,Global Tech Solutions,2026-06-26,2026-08-25,72500.0,Operations
+INV0047,Metro Foods Corp,2026-05-11,2026-06-10,35000.0,Operations
+INV0048,Starlight Hospitality,2026-06-19,2026-08-18,15000.0,IT Support
+INV0049,Vanguard Distribution,2026-06-17,2026-08-01,70000.0,Marketing
+INV0050,Metro Foods Corp,2026-06-04,2026-07-19,32500.0,Marketing
+INV0051,Pinnacle Media,03/28/2026,2026-05-27,80000.0,Operations
+INV0052,Nexus Manufacturing,2026-04-26,2026-05-26,52500.0,Marketing
+INV0053,Pinnacle Media,2026-09-11,2026-10-26,65000.0,Marketing
+INV0054,Nexus Manufacturing,2026-08-26,2026-09-25,87500.0,Services
+INV0055,Summit Healthcare,2026-06-12,2026-07-27,87500.0,IT Support
+INV0056,Oasis Pharmaceuticals,2026-09-01,2026-10-16,30000.0,IT Support
+INV0057,Apex Logistics,2026-05-01,2026-06-15,50000.0,Marketing
+INV0058,Metro Foods Corp,2026-04-20,2026-05-20,27500.0,Marketing
+INV0059,Evergreen Agrotech,2026-01-11,2026-03-12,97500.0,IT Support
+INV0060,Nexus Manufacturing,2026-05-20,2026-07-04,40000.0,IT Support
+INV0061,Titan Industrial,2026-01-14,2026-02-28,102500.0,Services
+INV0062,Summit Healthcare,2026-01-26,2026-03-12,32500.0,IT Support
+INV0063,Apex Logistics,2026-01-27,2026-03-13,7500.0,IT Support
+INV0064,Orion Aerospace,2026-03-06,2026-04-20,42500.0,Services
+INV0065,Quantum Dynamics,2026-02-28,2026-03-30,30000.0,Consulting
+INV0066,Global Tech Solutions,2026-06-09,2026-08-08,7500.0,Operations
+INV0067,Apex Logistics,2026-02-22,2026-04-23,42500.0,Operations
+INV0068,XYZ Traders,2026-08-08,2026-10-07,90000.0,Consulting
+INV0069,Beacon Financial,2026-07-05,2026-09-03,72500.0,Sales
+INV0070,Titan Industrial,2026-08-11,2026-09-10,27500.0,Marketing
+INV0071,  Oasis Pharmaceuticals  ,2026-08-12,2026-10-11,77500.0,IT Support
+INV0072,Quantum Dynamics,2026-08-26,2026-10-25,42500.0,IT Support
+INV0073,BlueSky Consulting,2026-04-19,2026-06-03,82500.0,Services
+INV0074,Oasis Pharmaceuticals,2026-04-08,2026-05-08,87500.0,Sales
+INV0075,Beacon Financial,2026-02-17,2026-04-03,7500.0,IT Support
+INV0076,Beacon Financial,2026-06-26,2026-08-10,87500.0,Operations
+INV0077,Oasis Pharmaceuticals,2026-08-21,2026-10-05,60000.0,Consulting
+INV0078,Quantum Dynamics,2026-05-25,2026-06-24,97500.0,Marketing
+INV0079,Vanguard Distribution,2026-04-02,2026-05-17,62500.0,Services
+INV0080,Vanguard Distribution,2026-09-09,2026-10-09,25000.0,Marketing
+INV0081,Crestline Software,2026-09-03,2026-10-18,80000.0,Consulting
+INV0082,Apex Logistics,2026-02-07,2026-04-08,82500.0,IT Support
+INV0083,Vanguard Distribution,2026-03-02,2026-05-01,42500.0,Sales
+INV0084,Metro Foods Corp,2026-06-02,2026-08-01,75000.0,IT Support
+INV0085,Vanguard Distribution,2026-01-31,2026-04-01,102500.0,Operations
+INV0086,Global Tech Solutions,2026-05-16,2026-07-15,37500.0,Services
+INV0087,Vanguard Distribution,2026-05-28,2026-07-27,40000.0,Sales
+INV0088,Crestline Software,2026-08-06,2026-09-05,35000.0,Marketing
+INV0089,XYZ Traders,2026-05-28,2026-07-12,52500.0,Services
+INV0090,Oasis Pharmaceuticals,2026-02-11,2026-04-12,75000.0,IT Support
+INV0091,Apex Logistics,2026-01-11,2026-03-12,95000.0,Services
+INV0092,Crestline Software,2026-08-29,2026-10-28,32500.0,Sales
+INV0093,Evergreen Agrotech,2026-02-16,2026-04-02,82500.0,Marketing
+INV0094,Evergreen Agrotech,2026-05-28,2026-07-27,82500.0,Marketing
+INV0095,Oasis Pharmaceuticals,2026-02-15,2026-04-01,77500.0,Sales
+INV0096,XYZ Traders,2026-07-05,2026-09-03,87500.0,Services
+INV0097,Quantum Dynamics,2026-05-28,2026-07-12,25000.0,Operations
+INV0098,Beacon Financial,2026-05-03,2026-07-02,7500.0,Sales
+INV0099,Global Tech Solutions,2026-03-20,2026-05-04,22500.0,IT Support
+INV0100,Vanguard Distribution,2026-08-01,2026-09-15,47500.0,Operations
+INV0101,Nexus Manufacturing,2026-03-16,2026-04-30,92500.0,IT Support
+INV0102,Quantum Dynamics,2026-05-17,2026-06-16,57500.0,IT Support
+INV0103,Summit Healthcare,2026-09-05,2026-10-20,90000.0,IT Support
+INV0104,Nexus Manufacturing,2026-04-30,2026-06-14,65000.0,Operations
+INV0105,Summit Healthcare,2026-03-06,2026-05-05,10000.0,IT Support
+INV0106,BlueSky Consulting,2026-02-21,2026-04-22,75000.0,Sales
+INV0107,ABC Retail,2026-07-29,2026-09-27,27500.0,Marketing
+INV0108,Apex Logistics,2026-06-23,2026-08-22,45000.0,IT Support
+INV0109,Metro Foods Corp,2026-01-19,2026-03-20,82500.0,Consulting
+INV0110,Evergreen Agrotech,2026-08-16,2026-09-15,20000.0,Sales
+INV0111,XYZ Traders,2026-07-11,2026-08-25,60000.0,Consulting
+INV0112,Horizon Energy,2026-07-15,2026-09-13,102500.0,Sales
+INV0113,Titan Industrial,2026-08-24,2026-10-08,45000.0,Marketing
+INV0114,Oasis Pharmaceuticals,2026-08-15,2026-09-29,15000.0,Services
+INV0115,Vanguard Distribution,2026-05-09,2026-06-23,72500.0,Marketing
+INV0116,Pinnacle Media,2026-02-24,2026-03-26,80000.0,IT Support
+INV0117,ABC Retail,2026-05-21,2026-06-20,67500.0,Marketing
+INV0118,Beacon Financial,2026-06-30,2026-07-30,40000.0,Consulting
+INV0119,XYZ Traders,2026-01-18,2026-03-19,75000.0,Consulting
+INV0120,Oasis Pharmaceuticals,2026-09-14,2026-10-29,87500.0,Consulting
+INV0121,Quantum Dynamics,2026-06-23,2026-07-23,50000.0,IT Support
+INV0122,Metro Foods Corp,2026-03-05,2026-04-19,45000.0,Sales
+INV0123,Global Tech Solutions,2026-08-30,2026-09-29,40000.0,Marketing
+INV0124,Nexus Manufacturing,2026-08-26,2026-10-25,15000.0,Marketing
+INV0125,Beacon Financial,2026-05-01,2026-06-30,20000.0,Sales
+INV0126,Evergreen Agrotech,2026-08-01,2026-09-30,27500.0,Operations
+INV0127,Starlight Hospitality,2026-08-16,2026-09-15,75000.0,Services
+INV0128,Global Tech Solutions,2026-07-03,2026-08-02,62500.0,Marketing
+INV0129,Orion Aerospace,2026-06-20,2026-07-20,12500.0,Sales
+INV0130,Crestline Software,2026-04-17,2026-06-16,15000.0,Services
+INV0131,  ABC Retail  ,2026-03-08,2026-05-07,27500.0,Consulting
+INV0132,BlueSky Consulting,2026-05-16,2026-06-15,32500.0,Sales
+INV0133,Titan Industrial,2026-02-25,2026-04-11,85000.0,Consulting
+INV0134,Titan Industrial,2026-02-01,2026-03-18,7500.0,Marketing
+INV0135,Evergreen Agrotech,2026-09-09,2026-11-08,20000.0,Marketing
+INV0136,Apex Logistics,2026-03-17,2026-04-16,55000.0,Sales
+INV0137,Metro Foods Corp,2026-05-31,2026-07-15,87500.0,Operations
+INV0138,Pinnacle Media,2026-04-27,2026-06-11,75000.0,IT Support
+INV0139,Evergreen Agrotech,2026-07-11,2026-08-10,45000.0,Consulting
+INV0140,Apex Logistics,2026-07-10,2026-08-09,20000.0,IT Support
+INV0141,BlueSky Consulting,07/30/2026,2026-09-13,22500.0,Marketing
+INV0142,Evergreen Agrotech,2026-05-28,2026-07-27,12500.0,Marketing
+INV0143,Oasis Pharmaceuticals,2026-05-23,2026-07-22,22500.0,Consulting
+INV0144,Orion Aerospace,2026-01-14,2026-03-15,92500.0,Marketing
+INV0145,Quantum Dynamics,2026-05-20,2026-07-19,32500.0,Sales
+INV0146,Horizon Energy,2026-07-25,2026-08-24,95000.0,Services
+INV0147,Metro Foods Corp,2026-06-24,2026-07-24,77500.0,IT Support
+INV0148,Apex Logistics,2026-03-22,2026-05-21,27500.0,Sales
+INV0149,Sterling Automotive,2026-08-09,2026-09-08,60000.0,Sales
+INV0150,XYZ Traders,2026-01-29,2026-02-28,67500.0,Services
+INV0151,Vanguard Distribution,2026-01-04,2026-02-18,22500.0,Consulting
+INV0152,Nexus Manufacturing,2026-07-01,2026-07-31,92500.0,Operations
+INV0153,BlueSky Consulting,2026-07-27,2026-09-25,72500.0,Operations
+INV0154,BlueSky Consulting,2026-08-24,2026-10-23,102500.0,Services
+INV0155,Apex Logistics,2026-05-05,2026-06-19,20000.0,IT Support
+INV0156,BlueSky Consulting,2026-03-28,2026-04-27,57500.0,Services
+INV0157,Global Tech Solutions,2026-04-12,2026-05-12,45000.0,Services
+INV0158,Beacon Financial,2026-08-18,2026-10-17,95000.0,IT Support
+INV0159,Crestline Software,2026-06-15,2026-08-14,102500.0,Marketing
+INV0160,Quantum Dynamics,2026-06-30,2026-08-29,12500.0,Operations
+INV0161,Apex Logistics,2026-07-16,2026-08-30,17500.0,Marketing
+INV0162,Titan Industrial,2026-06-14,2026-08-13,35000.0,Operations
+INV0163,XYZ Traders,2026-08-13,2026-10-12,75000.0,Services
+INV0164,BlueSky Consulting,2026-02-18,2026-04-19,57500.0,Sales
+INV0165,Apex Logistics,2026-06-29,2026-08-13,27500.0,Operations
+INV0166,Metro Foods Corp,2026-02-13,2026-03-30,100000.0,Services
+INV0167,Sterling Automotive,2026-07-05,2026-08-04,72500.0,Sales
+INV0168,Summit Healthcare,2026-02-21,2026-04-22,50000.0,Sales
+INV0169,BlueSky Consulting,2026-07-12,2026-08-11,25000.0,Operations
+INV0170,XYZ Traders,2026-05-02,2026-06-16,62500.0,IT Support
+INV0171,Nexus Manufacturing,2026-06-08,2026-07-23,42500.0,Operations
+INV0172,Pinnacle Media,2026-08-14,2026-09-28,95000.0,Consulting
+INV0173,Evergreen Agrotech,2026-03-12,2026-04-26,35000.0,Services
+INV0174,Global Tech Solutions,2026-03-24,2026-05-08,17500.0,Consulting
+INV0175,Titan Industrial,2026-08-01,2026-08-31,7500.0,Consulting
+INV0176,Nexus Manufacturing,2026-02-20,2026-04-21,55000.0,Sales
+INV0177,Vanguard Distribution,2026-08-29,2026-10-13,25000.0,IT Support
+INV0178,Pinnacle Media,2026-08-05,2026-09-04,92500.0,Services
+INV0179,Nexus Manufacturing,2026-08-23,2026-09-22,102500.0,IT Support
+INV0180,Crestline Software,2026-05-30,2026-07-14,27500.0,Services
+INV0181,  Sterling Automotive  ,2026-01-11,2026-02-25,15000.0,Consulting
+INV0182,XYZ Traders,2026-07-11,2026-08-25,65000.0,Marketing
+INV0183,Nexus Manufacturing,2026-06-20,2026-07-20,20000.0,Marketing
+INV0184,Beacon Financial,2026-03-11,2026-04-10,32500.0,Marketing
+INV0185,Pinnacle Media,2026-01-22,2026-03-08,35000.0,Sales
+INV0186,Sterling Automotive,2026-08-31,2026-10-15,90000.0,IT Support
+INV0187,Quantum Dynamics,2026-08-12,2026-09-26,62500.0,Sales
+INV0188,Horizon Energy,2026-07-08,2026-09-06,82500.0,IT Support
+INV0189,Global Tech Solutions,2026-06-01,2026-07-16,55000.0,Sales
+INV0190,Titan Industrial,2026-08-11,2026-09-25,60000.0,Sales
+INV0191,Metro Foods Corp,2026-03-23,2026-04-22,85000.0,Consulting
+INV0192,Apex Logistics,2026-07-05,2026-08-19,62500.0,Services
+INV0193,XYZ Traders,2026-08-19,2026-10-03,27500.0,Operations
+INV0194,Metro Foods Corp,2026-05-08,2026-06-07,47500.0,Consulting
+INV0195,Pinnacle Media,2026-09-09,2026-10-09,50000.0,Operations
+INV0196,Apex Logistics,2026-06-27,2026-08-26,55000.0,Marketing
+INV0197,Horizon Energy,2026-04-25,2026-05-25,85000.0,Consulting
+INV0198,Summit Healthcare,2026-01-14,2026-02-28,82500.0,Services
+INV0199,Summit Healthcare,2026-02-03,2026-03-20,17500.0,Operations
+INV0200,Crestline Software,2026-06-12,2026-08-11,25000.0,Sales
+INV0201,Crestline Software,2026-08-10,2026-10-09,25000.0,Services
+INV0202,XYZ Traders,2026-03-20,2026-05-04,87500.0,Sales
+INV0203,Vanguard Distribution,2026-04-11,2026-06-10,45000.0,Sales
+INV0204,Quantum Dynamics,2026-02-17,2026-04-18,52500.0,Services
+INV0205,Orion Aerospace,2026-06-22,2026-08-21,100000.0,Marketing
+INV0206,Pinnacle Media,2026-01-16,2026-03-02,70000.0,Operations
+INV0207,Oasis Pharmaceuticals,2026-09-05,2026-10-05,52500.0,Consulting
+INV0208,Metro Foods Corp,2026-02-07,2026-04-08,77500.0,Consulting
+INV0209,Orion Aerospace,2026-06-13,2026-08-12,55000.0,Services
+INV0210,Starlight Hospitality,2026-07-09,2026-09-07,25000.0,IT Support
+INV0211,Quantum Dynamics,2026-03-14,2026-04-13,42500.0,IT Support
+INV0212,Horizon Energy,2026-06-10,2026-07-10,95000.0,Consulting
+INV0213,Beacon Financial,2026-01-12,2026-02-11,82500.0,Consulting
+INV0214,Sterling Automotive,2026-04-21,2026-06-20,42500.0,IT Support
+INV0215,Global Tech Solutions,2026-05-16,2026-07-15,25000.0,IT Support
+INV0216,Oasis Pharmaceuticals,2026-05-28,2026-06-27,62500.0,Services
+INV0217,Global Tech Solutions,2026-07-21,2026-09-04,20000.0,Services
+INV0218,Pinnacle Media,2026-07-25,2026-09-23,85000.0,Operations
+INV0219,Summit Healthcare,2026-06-13,2026-07-13,102500.0,Consulting
+INV0220,Sterling Automotive,2026-09-08,2026-11-07,90000.0,Operations
+INV0221,BlueSky Consulting,2026-08-02,2026-10-01,22500.0,Marketing
+INV0222,Orion Aerospace,2026-04-27,2026-06-26,45000.0,IT Support
+INV0223,Metro Foods Corp,2026-01-17,2026-03-18,42500.0,Services
+INV0224,Global Tech Solutions,2026-08-14,2026-09-28,7500.0,Services
+INV0225,Beacon Financial,2026-03-12,2026-05-11,12500.0,Marketing
+INV0226,BlueSky Consulting,2026-06-25,2026-08-24,77500.0,Services
+INV0227,Orion Aerospace,2026-05-07,2026-06-21,35000.0,IT Support
+INV0228,Pinnacle Media,2026-06-12,2026-07-27,82500.0,Marketing
+INV0229,Global Tech Solutions,2026-07-14,2026-08-28,90000.0,Operations
+INV0230,Summit Healthcare,2026-05-28,2026-07-27,10000.0,Consulting
+INV0231,Pinnacle Media,2026-05-19,2026-07-18,90000.0,Services
+INV0232,XYZ Traders,2026-04-26,2026-06-25,87500.0,Marketing
+INV0233,Evergreen Agrotech,2026-09-02,2026-11-01,80000.0,Marketing
+INV0234,Apex Logistics,2026-04-29,2026-06-28,95000.0,Marketing
+INV0235,Evergreen Agrotech,2026-07-23,2026-09-06,10000.0,Services
+INV0236,ABC Retail,2026-02-24,2026-04-10,95000.0,Consulting
+INV0237,Sterling Automotive,2026-04-09,2026-05-09,47500.0,IT Support
+INV0238,ABC Retail,2026-06-01,2026-07-31,57500.0,Marketing
+INV0239,Sterling Automotive,2026-07-25,2026-09-23,17500.0,Consulting
+INV0240,Quantum Dynamics,2026-08-17,2026-10-01,42500.0,IT Support
+INV0241,Vanguard Distribution,2026-01-06,2026-02-20,95000.0,Operations
+INV0242,Titan Industrial,2026-07-27,2026-09-25,30000.0,Consulting
+INV0243,Vanguard Distribution,2026-04-24,2026-05-24,102500.0,Consulting
+INV0244,Beacon Financial,2026-07-11,2026-08-25,77500.0,Services
+INV0245,Pinnacle Media,2026-02-11,2026-04-12,100000.0,Services
+INV0246,XYZ Traders,2026-04-14,2026-06-13,85000.0,Operations
+INV0247,Sterling Automotive,2026-08-21,2026-09-20,12500.0,IT Support
+INV0248,ABC Retail,2026-01-02,2026-03-03,45000.0,IT Support
+INV0249,Vanguard Distribution,2026-03-11,2026-05-10,32500.0,IT Support
+INV0250,Evergreen Agrotech,2026-08-18,2026-10-02,65000.0,Consulting
+INV0011,Crestline Software,2026-04-19,2026-06-18,55000.0,Marketing
+INV0046,Global Tech Solutions,2026-06-26,2026-08-25,72500.0,Operations
+INV0121,Quantum Dynamics,2026-06-23,2026-07-23,50000.0,IT Support
